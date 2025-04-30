@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.borderr-shadow {
+    box-shadow:  
+    -6px 10px 15px rgba(14, 13, 13, 0.2), /* Softer light red */
+    6px 10px 15px rgba(0, 0, 0, 0.2), 
+       0px 12px 18px rgba(0, 0, 0, 0.2);
+  }
